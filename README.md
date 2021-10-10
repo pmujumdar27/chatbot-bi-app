@@ -26,4 +26,9 @@ The ChatBot for FAQ is built using [DialogFlow](https://dialogflow.cloud.google.
   <img width="600" src="https://github.com/pmujumdar27/chatbot-bi-app/blob/main/static/architecture.PNG">
 </p>
 
+- The customer interacts with the Chatbot through the Customer-touchpoint website.
+- The request received at the Customer-touchpoint website is then sent to our DialogFlow model, which generates a response
+- The DialogFlow deployment has a webhook which calls back the address of our BI server, and the question asked to the chatbot is logged there in the database.
+- The data can then be used by the **Sales and Service** team to get insights of what questions are asked by the cuesomers frequently and update the FAQ's in the chatbot deployment.
+
 ---
