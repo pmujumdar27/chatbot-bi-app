@@ -1,4 +1,4 @@
-# chatbot-customer-touchpoint-app
+# chatbot-bi-app
 
 **Note:** This project was done as a part of ```MS 491-III``` course at IITGN. The deployment is only for demonstration purpose. This deployment might be vulnerable to cyber attacks.
 
