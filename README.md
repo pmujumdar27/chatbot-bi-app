@@ -8,7 +8,7 @@ This Repository is for the **BI Server** mentioned in the Architecture.
 
 ## Problem Statement
 
-![question](static/question.png)
+![question](./static/question.png)
 
 ---
 
@@ -20,6 +20,6 @@ The ChatBot for FAQ is built using [DialogFlow](https://dialogflow.cloud.google.
 
 ## Architecture
 
-![architecture](static/architecture.png)
+![architecture](./static/architecture.png)
 
 ---
